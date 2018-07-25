@@ -1,2 +1,2 @@
 # NAS_2016_Alert
-Project will update when NAS_2016 is published and available.
+The project is now available to the public at [https://github.com/ecospatial/NAS_2016/](https://github.com/ecospatial/NAS_2016/)
